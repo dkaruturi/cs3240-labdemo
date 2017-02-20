@@ -1,3 +1,2 @@
-def greeting(str):
-	print(str)
+from helper import greeting
 greeting("hello")
